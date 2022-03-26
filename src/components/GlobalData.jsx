@@ -45,7 +45,7 @@ export default function GlobalData() {
 
         <Paper elevation={2} sx={{ bgcolor: "#274472", color: "#C3E0E5" }}>
           <Typography variant="h6">Total Cases</Typography>
-          <Typography variant="h5" color="error">
+          <Typography variant="h5" color="rgba(75, 192, 92, 1)">
             {selectedCountry ? selectedCountry[0].cases.total : "Loading"}
           </Typography>
           <Typography variant="Subtitle2">{currentDate}</Typography>
@@ -53,7 +53,7 @@ export default function GlobalData() {
 
         <Paper elevation={2} sx={{ bgcolor: "#274472", color: "#C3E0E5" }}>
           <Typography variant="h6">Total Deaths</Typography>
-          <Typography variant="h5" color="green">
+          <Typography variant="h5" color="error">
             {selectedCountry ? selectedCountry[0].deaths.total : "Loading"}
           </Typography>
           <Typography variant="Subtitle2">{currentDate}</Typography>
