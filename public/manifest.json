@@ -8,31 +8,31 @@
       "type": "image/x-icon"
     },
     {
-      "src": "./images/icon-36.png",
+      "src": "./images/virus-36.png",
       "type": "image/png",
       "sizes": "36x36",
       "purpose": "maskable"
     },
     {
-      "src": "./images/icon-48.png",
+      "src": "./images/virus-48.png",
       "type": "image/png",
       "sizes": "48x48",
       "purpose": "maskable"
     },
     {
-      "src": "./images/icon-72.png",
+      "src": "./images/virus-72.png",
       "type": "image/png",
       "sizes": "72x72",
       "purpose": "maskable"
     },
     {
-      "src": "./images/icon-192.png",
+      "src": "./images/virus-192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "maskable"
     },
     {
-      "src": "./images/icon-512.png",
+      "src": "./images/virus-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
